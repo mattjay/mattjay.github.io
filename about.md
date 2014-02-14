@@ -7,7 +7,7 @@ title: About
   Hey there! This page is included in Hyde as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>-->
 
-![hey it's me!](https://pbs.twimg.com/profile_images/378800000347034634/d2a5dbc907d4a694895fb428d48c33fe.jpeg)
+[[/public/meCoffeeAvatar.jpg]]
 
 ## Bio
 Matt Johansen is a manager for WhiteHat Security's Threat Research Center (TRC). Matt began his career as a security consultant, where he was responsible for performing network and web application penetration tests for clients. He then took at role at WhiteHat as an application security specialist for the TRC and quickly rose through the ranks to managing more than 40 at the company's Houston location.
