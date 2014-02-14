@@ -8,12 +8,12 @@ Without the people who have guided, supported, questioned, and encouraged me alo
 
 I don’t profess to be the world’s best example to follow in any respect, however I’m lucky enough to have had an number of incredible opportunities and experiences come my way.
 
-* I have worked for a number of amazing companies doing Digital Forensics & Incident Response.
-* In 2012 I got hired for my dream job working remotely for [GitHub](https://github.com), a company that produces web-based collaboration tools for people who build software.
-* I’ve lived on both coasts, in Washington DC (twice), San Francisco, New York City (ok ok... New Jersey), and now back in my home town of Hershey, PA.
-* People have been surprisingly willing to let me talk at them and as a result I've spoken at some great industry events like ShmooCon, BayThreat, SummerCon, and [others](http://sroberts.github.io/talks/).
+* I have worked my way up through the ranks of Application Security researchers since leaving college
+* In 2010 I got hired for my dream job working  for [WhiteHat Security](https://whitehatsec.com), an Application Security company where I went form entry level to be a Manager in our TRC which is over 150 appsec engineers and researchers.
+* I’ve lived and traveled throughout the country, learning new things along the way. (Long Island, NY -> Bay Area, CA -> Houston, TX).
+* I've spoken at a large number of industry conferences including BlackHat, DEFCON, RSA, many BSides and OWASP events, and [others](http://mattjay.github.io/talks/).
 
-If you’d like to work together, you can [write me a letter](mailto:sroberts@github.com) responding to the questions below; I’ll write back to all letters I receive in this way within two weeks, no matter what. In response to the most exceptional letters, I’ll propose further correspondence—and in certain cases, an ongoing mentoring relationship.
+If you’d like to work together, you can [write me a letter](mailto:matt@whitehatsec.com) responding to the questions below; I’ll write back to all letters I receive in this way within two weeks, no matter what. In response to the most exceptional letters, I’ll propose further correspondence—and in certain cases, an ongoing mentoring relationship.
 
 * Tell me about yourself. What do you do? What are your goals?
 * What do you hope to gain from our mentoring relationship?
