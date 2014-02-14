@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            sroberts
+title:            mattjay
 tagline:          'see description'
-description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @<a href="www.github.com">github</a>'
-url:              http://sroberts.github.io
+description:      'Web Application Security Researcher, wannabe developer, whiskey drinker, beer nerd, giant dog owner, head of Threat Research Center @<a href="http://whitehatsec.com">whitehatsec</a> Houston, TX'
+url:              http://mattjay.github.io
 
 author:
-  name:           'Scott J Roberts'
-  url:            https://twitter.com/sroberts
+  name:           'Matt Johansen'
+  url:            https://twitter.com/mattjay
 
 paginate:         5
 
@@ -21,10 +21,10 @@ paginate:         5
 version:          2.0.0
 
 github:
-  main:           https://github.com/sroberts/
+  main:           https://github.com/mattjay/
 
 twitter:
-  main:           https://www.twitter.com/sroberts
+  main:           https://www.twitter.com/mattjay
 
 linkedin:
-  main:           http://www.linkedin.com/in/scottroberts
+  main:           http://www.linkedin.com/in/matthewjohansen
