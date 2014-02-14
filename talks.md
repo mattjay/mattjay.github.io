@@ -12,12 +12,14 @@ I've been lucky enough to be invited to talk some places. Here's a list of ones 
 ## 2014
 * [AppSecCalifornia](http://owaspappseccalifornia2014.sched.org/): Million Browser Botnet (with additional followup info) ([Video](https://www.youtube.com/watch?v=m1lCr6707Cs))
 * [BSidesAustin](http://bsidesaustin.com/): "Reading the Security Tea Leaves" - The Story from 50 million Vulnerabilities ([Slides](http://www.slideshare.net/ebellis/reading-the-security-tea-leaves))
+* [Webinar](https://blog.whitehatsec.com/top-10-web-hacking-techniques-2013/): Top 10 Web Hacking Techniques of 2013
 
 ## 2013
 * [BlackHat](https://www.blackhat.com/us-13/archives.html#Grossman): Million Browser Botnet ([Video](https://www.youtube.com/watch?v=ERJmkLxGRC0) & [Slides](http://www.slideshare.net/jeremiahgrossman/million-browser-botnet))
 * [BSidesLA](http://www.securitybsides.com/w/page/64703540/BSidesLosAngeles_2013): Leveraging Intel From Hackers to Mitigate Risks
-* [LASCON](http://lascon.org/): Million Browser Botnet ([Video](http://vimeo.com/80797823)
+* [LASCON](http://lascon.org/): Million Browser Botnet ([Video](http://vimeo.com/80797823))
 * [SecTor](http://www.sector.ca/): Million Browser Botnet ([Video](http://2013.video.sector.ca/video/77146412))
+* [Webinar](https://blog.whitehatsec.com/top-ten-web-hacking-techniques-of-2012/): Top 10 Web Hacking Techniques of 2012 ([Slides](http://www.slideshare.net/MattJohansen/top-10-web-hacks-2012))
 
 ## 2012
 * [FBI's International Conference of Cyber Security (ICCS)](http://iccs.fordham.edu/program/iccs2012/): [Keeping up with Web Based OSes: Security Flaws in the Dawn of the Mobile Age](http://iccs.fordham.edu/program/iccs2012/matt-johansen/)
