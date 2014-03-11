@@ -1,10 +1,10 @@
-# sroberts.github.io
+# mattjay.github.io
 
-This is my attempt at a reasonable technical blog around security, programmign, and any other things I decide counts. 
+A blog, I think. Jacked from [Scott J Roberts](https://sroberts.github.io/about/)
 
 ## Author
 
-**[Scott J Roberts](https://sroberts.github.io/about/)**
+**[Matt Johansen](https://mattjay.github.io/about/)**
 
 ## Technology
 * Blog Package: [Jekyll](http://jekyllrb.com)
