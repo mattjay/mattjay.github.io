@@ -10,6 +10,7 @@ title: Talks
 I've been lucky enough to be invited to talk some places. Here's a list of ones I can remember and find content on...
 
 ## 2014
+* [SXSW](http://schedule.sxsw.com/2014/events/event_IAP19539): Rugged Software Using Rugged Driven Development ([Slides](http://www.slideshare.net/wickett/rugged-sof))
 * [AppSecCalifornia](http://owaspappseccalifornia2014.sched.org/): Million Browser Botnet (with additional followup info) ([Video](https://www.youtube.com/watch?v=m1lCr6707Cs))
 * [BSidesAustin](http://bsidesaustin.com/): "Reading the Security Tea Leaves" - The Story from 50 million Vulnerabilities ([Slides](http://www.slideshare.net/ebellis/reading-the-security-tea-leaves))
 * [Webinar](https://blog.whitehatsec.com/top-10-web-hacking-techniques-2013/): Top 10 Web Hacking Techniques of 2013
