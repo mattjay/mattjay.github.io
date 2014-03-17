@@ -11,6 +11,10 @@ tagline:          'see description'
 description:      'Web Application Security Researcher, wannabe developer, whiskey drinker, beer nerd, giant dog owner, head of Threat Research Center @<a href="http://whitehatsec.com">whitehatsec</a> Houston'
 url:              http://mattjay.github.io
 
+gems:
+  - jemoji
+  - jekyll-mentions
+
 author:
   name:           'Matt Johansen'
   url:            https://twitter.com/mattjay
