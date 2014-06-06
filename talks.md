@@ -14,6 +14,8 @@ I've been lucky enough to be invited to talk some places. Here's a list of ones 
 * [AppSecCalifornia](http://owaspappseccalifornia2014.sched.org/): Million Browser Botnet (with additional followup info) ([Video](https://www.youtube.com/watch?v=m1lCr6707Cs))
 * [BSidesAustin](http://bsidesaustin.com/): "Reading the Security Tea Leaves" - The Story from 50 million Vulnerabilities ([Slides](http://www.slideshare.net/ebellis/reading-the-security-tea-leaves))
 * [Webinar](https://blog.whitehatsec.com/top-10-web-hacking-techniques-2013/): Top 10 Web Hacking Techniques of 2013
+* [SOURCE Dublin](http://sourceconference.com/dublin/speakers.html): Million Browser Botnet (with additional Akamai followup)
+* [OWASP Dublin](https://www.owasp.org/index.php/Ireland-Dublin): Top 10 Web Hacking Techniques of 2013 ([Slides](http://www.slideshare.net/MattJohansen/top10-web))
 
 ## 2013
 * [BlackHat](https://www.blackhat.com/us-13/archives.html#Grossman): Million Browser Botnet ([Video](https://www.youtube.com/watch?v=ERJmkLxGRC0) & [Slides](http://www.slideshare.net/jeremiahgrossman/million-browser-botnet))
