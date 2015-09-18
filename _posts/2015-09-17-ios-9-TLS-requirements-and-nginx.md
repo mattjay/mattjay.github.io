@@ -11,6 +11,7 @@ No brainer. All modern browsers now support TLS1.2 and so should you. TLS 1.3 ha
 The tricky part to remember here is that even if you support TLS 1.2 but don't explicitly disallow SSLv3, you're susceptible to the POODLE attack which forces a browser to downgrade its connection.
 
 We've gone ahead and stopped allowing TLS 1.0 during this revision in anticipation of future issues and it really doesn't knock off any browser support that we already claim to not support. Our nginx config for this requirement:
+
 ```
 ssl_protocols TLSv1.1 TLSv1.2;
 ```
@@ -21,11 +22,13 @@ This one was a sticky one for me for a few reasons. First, and hardest to figure
 The 2048 bit key part was a bit of a tweak as well. In nginx a small line change will help support this as the default is a 1024 bit key.
 
 First you need to generate a 2048 bit key:
+
 ```
 openssl dhparam -out dhparam2048.pem 2048
 ```
 
 Then, tell nginx to use the new key
+
 ```
 ssl_dhparam /etc/ssl/certs/dhparam2048.pem;
 ```
