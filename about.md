@@ -7,7 +7,7 @@ title: About
   Hey there! This page is included in Hyde as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>-->
 
-![me](/public/matt_avatar.jpg)
+![me](/public/matt_avatar.png)
 
 ## Bio
 Matt Johansen is the Director of Security at Honest Dollar, a Financial Tech startup in Austin, Texas where he is charged with building an Information Security program from the ground up. Previously he was the Director of Services and Research at WhiteHat Security where he oversaw the development and execution of service related product lines that WhiteHat offers. In addition to these services, Matt also performs research on application security topics that he discusses on the corporate blog and is invited to present at conferences around the world.
