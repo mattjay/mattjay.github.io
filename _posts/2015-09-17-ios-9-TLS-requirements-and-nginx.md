@@ -3,7 +3,7 @@ layout: post
 title: iOS 9 TLS Requirements & nginx
 ---
 
-This week with the release of iOS 9, Apple has introduced some new requirements for their TLS standards under the label ([App Transport Security (ATS)](https://developer.apple.com/library/prerelease/ios/technotes/App-Transport-Security-Technote/)). After going down this rabbit hole a bit for a few days to make sure we were playing nice with the new rules, I figured I'd give a lessons learned for anybody who stumbles across this. I'm using nginx in all of my examples.
+This week with the release of iOS 9, Apple has introduced some new requirements for their TLS standards under the label [App Transport Security (ATS)](https://developer.apple.com/library/prerelease/ios/technotes/App-Transport-Security-Technote/). After going down this rabbit hole a bit for a few days to make sure we were playing nice with the new rules, I figured I'd give a lessons learned for anybody who stumbles across this. I'm using nginx in all of my examples.
 
 ## 1 - The server must support at least Transport Layer Security (TLS) protocol version 1.2
 No brainer. All modern browsers now support TLS1.2 and so should you. TLS 1.3 has me drooling but TLS 1.2 will help protect from many of the transport layer attacks you've read about in the past few years. The obvious one is POODLE which caused everybody to race to disable SSLv3.
@@ -17,7 +17,7 @@ ssl_protocols TLSv1.1 TLSv1.2;
 ```
 
 ## 2 - Certificates must be signed using a SHA256 or better signature hash algorithm, with either a 2048 bit or greater RSA key or a 256 bit or greater Elliptic-Curve (ECC) key
-This one was a sticky one for me for a few reasons. First, and hardest to figure out, was the SHA256 or better signature hash algorithm. Thought this was straightforward, and had my certificate setup properly from our CA but kept failing on this issue in production. Our testing tool (nscurl) was passing in qa though and maybe you've run into this too if you're a Cloudflare customer. Cloudflare only supports SHA1 even for their paying customers. The fix? Go and upload your own certificate as a "Custom Certificate" in the Cloudflare interface. This alone moved me from an A to an A+ on the ([SSL Labs](https://www.ssllabs.com/ssltest/)) test.
+This one was a sticky one for me for a few reasons. First, and hardest to figure out, was the SHA256 or better signature hash algorithm. Thought this was straightforward, and had my certificate setup properly from our CA but kept failing on this issue in production. Our testing tool (nscurl) was passing in qa though and maybe you've run into this too if you're a Cloudflare customer. Cloudflare only supports SHA1 even for their paying customers. The fix? Go and upload your own certificate as a "Custom Certificate" in the Cloudflare interface. This alone moved me from an A to an A+ on the [SSL Labs](https://www.ssllabs.com/ssltest/) test.
 
 The 2048 bit key part was a bit of a tweak as well. In nginx a small line change will help support this as the default is a 1024 bit key.
 
