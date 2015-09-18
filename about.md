@@ -7,9 +7,12 @@ title: About
   Hey there! This page is included in Hyde as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>-->
 
-![me](/public/meCoffeeAvatar.jpg)
+![me](/public/matt_avatar.jpg)
 
 ## Bio
-Matt Johansen is a manager for WhiteHat Security's Threat Research Center (TRC). Matt began his career as a security consultant, where he was responsible for performing network and web application penetration tests for clients. He then took at role at WhiteHat as an application security specialist for the TRC and quickly rose through the ranks to managing more than 40 at the company's Houston location.
+Matt Johansen is the Director of Security at Honest Dollar, a Financial Tech startup in Austin, Texas where he is charged with building an Information Security program from the ground up. Previously he was the Director of Services and Research at WhiteHat Security where he oversaw the development and execution of service related product lines that WhiteHat offers. In addition to these services, Matt also performs research on application security topics that he discusses on the corporate blog and is invited to present at conferences around the world.
 
-In his spare time, Matt is a frequent web security instructor at San Jose State University and Adelphi University, where he received his Bachelor of Science in Computer Science. Matt is also a frequent speaker at a number of industry events including: BlackHat, Defcon, Hacker Halted, the FBI's International Conference on Cyber Security, RSA as well as several OWASP chapters and BSides events across North America. Matt is also a contributor to the <a href="http://liquidmatrix.org/blog/">LiquidMatrix Security Digest</a> and has worked with the SANS Institute as an industry expert for certification review.
+Previously Matt was a Sr. Manager for the Threat Research Center at WhiteHat Security where he built and managed a team of Application Security Specialists, Engineers and Supervisors to prevent website security attacks and protect companies'​ and their customers'​ data.
+Before this he was an Application Security Engineer where he oversaw and assessed more than 35,000 web applications that WhiteHat has under contract for many Fortune 500 companies across a range of technologies.
+
+Mr. Johansen is also an instructor of Web Application Security at Adelphi University, where he received his Bachelor of Science in Computer Science, and San Jose State University. He has also been utilized by the SANS Institute as an industry expert for certification review.

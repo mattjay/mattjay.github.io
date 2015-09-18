@@ -8,6 +8,13 @@ title: Talks
 </p>-->
 
 I've been lucky enough to be invited to talk some places. Here's a list of ones I can remember and find content on...
+## 2015
+* [AppSecEU - Amsterdam](https://2015.appsec.eu/talks/): Top 10 Web Hacking Techniques of 2014 ([Video](https://www.youtube.com/watch?v=gA5IVywVneA))
+* [RSA](https://www.rsaconference.com/events/us15/agenda/sessions): Top 10 Web Hacking Techniques of 2014
+* [CONFidence - Krakow, Poland](http://2015.confidence.org.pl/en/): Top 10 Web Hacking Techniques of 2014 ([Conference Interview Video](https://www.youtube.com/watch?v=yfRp-CTVO_c))
+* [InfoSec Europe - London](http://www.infosecurityeurope.com/en/Contributors/586767/Matt-Johansen): Where Flow Charts Don't Go: An Examination of Web Applications Security Process Management
+* [Webinar](https://info.whitehatsec.com/Webinar-Adversaries-LP.html): How Fast Can Adversaries Get - w/ [Robert 'RSnake' Hansen](https://twitter.com/rsnake)
+* [LASCON](https://lascon2015.sched.org/event/a3cb587ae1572be8f6879b219543ab52#.Vft8lCBViko): Fast Adversaries - Fast Countermeasures - w/ [Robert 'RSnake' Hansen](https://twitter.com/rsnake)
 
 ## 2014
 * [SXSW](http://schedule.sxsw.com/2014/events/event_IAP19539): Rugged Software Using Rugged Driven Development ([Slides](http://www.slideshare.net/wickett/rugged-sof))
