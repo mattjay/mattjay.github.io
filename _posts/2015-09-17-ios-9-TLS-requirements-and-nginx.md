@@ -8,15 +8,15 @@ This week with the release of iOS 9, Apple has introduced some new requirements 
 ## 1 - The server must support at least Transport Layer Security (TLS) protocol version 1.2
 No brainer. All modern browsers now support TLS1.2 and so should you. TLS 1.3 has me drooling but TLS 1.2 will help protect from many of the transport layer attacks you've read about in the past few years. The obvious one is POODLE which caused everybody to race to disable SSLv3.
 
-The tricky part to remember here is that even if you support TLS 1.2 but don't explicitly disallow SSLv3, you're susceptable to the POODLE attack which forces a browser to downgrade its connection.
+The tricky part to remember here is that even if you support TLS 1.2 but don't explicitly disallow SSLv3, you're susceptible to the POODLE attack which forces a browser to downgrade its connection.
 
-We've gone ahead and stopped allowing TLS 1.0 during this revision in anticipation of future issues and it really doesn't knock off any browser support that we all ready claim to not support. Our nginx config for this requirement:
+We've gone ahead and stopped allowing TLS 1.0 during this revision in anticipation of future issues and it really doesn't knock off any browser support that we already claim to not support. Our nginx config for this requirement:
 ```
 ssl_protocols TLSv1.1 TLSv1.2;
 ```
 
 ## 2 - Certificates must be signed using a SHA256 or better signature hash algorithm, with either a 2048 bit or greater RSA key or a 256 bit or greater Elliptic-Curve (ECC) key
-This one was a sticky one for me for a few reasons. First, and hardest to figure out, was the SHA256 or better signature hash algorithm. Thought this was straight forward, and had my certificate setup properly from our CA but kept failing on this issue in production. Our testing tool (nscurl) was passing in qa though and maybe you've run into this to if you're a Cloudflare customer. Cloudflare only supports SHA1 even for their paying customers. The fix? Go and upload your own certificate as a "Custom Certificate" in the Cloudflare interface. This alone moved me from an A to an A+ on the ([SSL Labs](https://www.ssllabs.com/ssltest/)) test.
+This one was a sticky one for me for a few reasons. First, and hardest to figure out, was the SHA256 or better signature hash algorithm. Thought this was straightforward, and had my certificate setup properly from our CA but kept failing on this issue in production. Our testing tool (nscurl) was passing in qa though and maybe you've run into this too if you're a Cloudflare customer. Cloudflare only supports SHA1 even for their paying customers. The fix? Go and upload your own certificate as a "Custom Certificate" in the Cloudflare interface. This alone moved me from an A to an A+ on the ([SSL Labs](https://www.ssllabs.com/ssltest/)) test.
 
 The 2048 bit key part was a bit of a tweak as well. In nginx a small line change will help support this as the default is a 1024 bit key.
 
@@ -44,7 +44,7 @@ ssl_ciphers 'ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA
 Bye bye RC4, DES, and MD5.
 
 ## Bonus - While you're here - HSTS!
-Hey, now that you've got your nginx config cracked open, and your brain is all in TLS land, lets turn on the HTTP Strict Transport Security header to force all connections over HTTPS. *Be Warned* if you do this and you're not ready for it, a lot of things will hit the fan. Make sure that there are no legitimate HTTP connections happening on your website because they will stop working all together if you enable this.
+Hey, now that you've got your nginx config cracked open, and your brain is all in TLS land, let's turn on the HTTP Strict Transport Security header to force all connections over HTTPS. *Be Warned* if you do this and you're not ready for it, a lot of things will hit the fan. Make sure that there are no legitimate HTTP connections happening on your website because they will stop working altogether if you enable this.
 Read up on all the things you need to worry about with HSTS elsewhere before doing this but if you're familiar with the concept and want to turn it on, its one simple line:
 
 ```
