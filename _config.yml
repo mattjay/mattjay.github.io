@@ -18,11 +18,6 @@ gems:
 author:
   name:           'Matt Johansen'
   url:            https://twitter.com/mattjay
-  
-analytics :
-  provider : google
-  google : 
-      tracking_id : 'UA-67980003-1'
 
 paginate:         5
 
