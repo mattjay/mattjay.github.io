@@ -56,4 +56,7 @@ add_header Strict-Transport-Security "max-age=15638400; includeSubdomains;";
 
 ## 6 - Hang your new A+ SSL Labs test grade on your fridge and ask your Mom to bring you to get Pizza
 
-*Edit* - Thanks to [@biosshadow](https://twitter.com/biosshadow) for pointing out an awesome tool by Mozilla which makes this all *very* easy. [Server Side TLS/SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+
+
+
+**Edit** - Thanks to [@biosshadow](https://twitter.com/biosshadow) for pointing out an awesome tool by Mozilla which makes this all *very* easy. [Server Side TLS/SSL Config Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
