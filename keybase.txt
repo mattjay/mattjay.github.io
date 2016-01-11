@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/mattjay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mattjay.github.io
+  * I am mattjay (https://keybase.io/mattjay) on keybase.
+  * I have a public key with fingerprint 50EC FB2B C1A0 1DBF BD8D  BAB2 6D40 C95B 6DDB C9AB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010148d8b2cd55af84e7996577a32db125af0a4f4aef6d4fb9e7c71fd6ad62f40d2e0a",
+            "fingerprint": "50ecfb2bc1a01dbfbd8dbab26d40c95b6ddbc9ab",
+            "host": "keybase.io",
+            "key_id": "6d40c95b6ddbc9ab",
+            "kid": "010148d8b2cd55af84e7996577a32db125af0a4f4aef6d4fb9e7c71fd6ad62f40d2e0a",
+            "uid": "427318c6cc3517b4db14438efbed5f00",
+            "username": "mattjay"
+        },
+        "service": {
+            "hostname": "mattjay.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1452546749,
+    "expire_in": 157680000,
+    "prev": "7e3b44cba2e758ee127009d1c946d2dec205dbf9fbbe9a0d2a729d2951a1a45d",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMNFAnicrZJtUFRVGMd5n4AhXpIQyISbWTAr3Xv3vuxdJkFnM4iMYoNxpNrOuefc
+5fKyu+7eXVwI0WEwxCWC3k2NFQ0rMyeaERmkdrWCIZzZDHGGwYmcSggaBiYxNewu
+1Ydm+tj5cuY85///ned5znM+LjwkJrQmf7i8ZmL4o9AR30FnSNnraWfrCWhFbkJf
+T1ThlQ1XI+xQTFUyIvQESZEUo0M6SIuIZYGkYzAvCBzL80BLI0jRaowEjMQALHGI
+kaCAeZGnJMQBxNESQyIak4DQEJJsMWO7zS5bFBXLkliUIA1FCpAUghJEOgQBpFUE
+KQos5BCCogCgaqywOoIONTkIHDhHtqox9WBaSe8/9P9z3s4VHEPzWkoncqKoZSke
+MiqBYbQ6LEGMWIkkg0IHtltADVbVNUBRKoGbaNAQatAlizjY12Ah/xbkmGWlwgn/
+qslmtypW0VqtXlcois2hD9oVty2or8XQ9DfJBGULUnupOlzY7pCtFkJPqUpRkYNo
+imFpluF4RtAQeKdNtmOTHFSwPKcj1RV8B7tUJI+1kGFECGjMszqMKZonSQFRosBw
+iEZYpElW/RhBghALQG0H4GkB0QJLAQowLCKCte2wWAk9zal5ArPKdMhmC1Ccdkw0
++H3PRYSExoRERYYFhywkJjrhn9HL8sffMfrzfKty2ezcn1wPPbonQcNNV6+J737V
+k1PVGGZkJg+2n7rf3p840/FUW3b/1bsMw/bMBGPS7jcPbysLL+arCy7Oxa4+c/ra
+4agx+ej+6UL9jnn35sTIwScHJswtg6POMFb4fum+zNLZiyUBR7dPWj1e/uxe7+T6
+8LWPmGHJcH4bd2L2B9O1woSRjqv8Y2tP7yu68ktHYWpb3Dn7E5vH1s2tigi0dPwe
+7tUO5h67lOQfL9o4lpR647t2KRC3lJd/TuvL+M0LLrWdT0s17rT1tOX6+qa7+uaz
+3+4tiFy4Z2TUdKh+pmB7V3JLefERQ2Jy4sMfGLdUoa45Teb1gYX3oz0Gb+FI5dOb
+MsFi2TtR6wOLhUNbYc/ZtOO60Jc8Jw+UvvGy5/KugTsa6d6UjKkX0t/9cqh/6ULd
+0eXrN6c+rOxcHk1cctcF3qtq2jAnUHcvfhNqip9N2lv6oLe6oXcq/YZHm7ev/nKR
+s9fa/Fn6fGvB4zQzTkaMbO3szjpz3Gk7eaInw+pfqosbL/bul1LGQcuu2a8+3T1a
+YdgoWuJuPb99Mv3I58duv1K7GPvt1DMlN5U/WgtuL1QOtV6YiVw2fxLu7Hhtk6E5
+usmR7/ZsaDdlNRr9KeuWA1tcncmNybFr9vT9+BYbf+jAz3NZWbVNL57aFv3rfHPy
+F84rHw9P3IqQjA/kfV1MsZWuPwHHysNE
+=AdEH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mattjay
+
+==================================================================
