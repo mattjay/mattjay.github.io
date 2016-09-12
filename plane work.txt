@@ -1,0 +1,34 @@
+Reviewing GitHub Access Logs
+
+- Currently Matt checks that all members of the team have 2FA on at all times manually and enforces this if there are discrepencies.
+- There are GitHub APIs that we can create an automated audit trail checker for all of these things and more.
+- Check GitHub Access and other audit logs, such as unauthorized team changes or repo edits. (https://help.github.com/articles/reviewing-the-audit-log-for-your-organization/)
+- Security Logs have their own API which now includes checking if 2FA is enabled or disabled (https://help.github.com/articles/reviewing-your-security-log/)
+- Work with backend team to create a service which pulls down this data and creates alerts to necessary parties in certain situations.
+
+
+HD SSH Key Rotation Process
+
+- Currently the only SSH keys anyone uses locally is to get into the bastion jump host. These keys are tied to developers Google Cloud Accounts.
+- HD will create Calendar reminders for appropriate parties (Matt & Ward) to periodically (every 3-6 months) to go in and have Google Key Management services regenerate keys for our accounts.
+- These keys will have to be stored manually since out of the box Google doesn't allow this functionality but does allow you to provide your own. We are assessing some virtual key management software (Vault) and GS Cloud team is assessing another.
+
+
+GitHub Enterprise Assessment
+
+- This is an ongoing conversation which needs to be pushed out a bit further. There are some barriers to entry with where GitHub Enterprise would live.
+- Issues:
+	- If GHE was to reside within GSInet, it would not be able to communicate with HD Google Cloud Platform to pull/push/deploy code.
+	- If GHE was to reside in AWS, it would have to be within GS Sky which is essentially an extension of GSInet with all the same issues. Only possible benefit here is that there might be some AWS -> Google Cloud b2b capabilities we would be able to leverage that is currently completely theoretical.
+	- GHE does not currently offer hosting in Google Cloud out of the box but Matt has an open thread with some employees there to see what the status of this feature is and if we can actually do this some how.
+	- Not sure what effect implementing SSO Federated Auth would have on our deployment process.
+	- Not an installable piece of software, is a packaged VM so we would have no control over underlying OS.
+	- Slower release time to fix vulnerabilities on GHE than GitHub.com but less exposure to Internet.
+- Benefits:
+	- Control the ingress/egress of data to/from our code repository.
+	- Capability to implement SSO Federated auth which would tie into existing GS Firm auth systems.
+	- Ability to tie authorizations to people transfering teams, new hires, leavers.
+	- Audit trail for Git actions instead of just User actions
+	- More premium support, but not sure we've ever written GitHub support as is.
+
+
