@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            mattjay
 tagline:          'see description'
-description:      'Leading Cloud & Container Security Operations @ $BigBank - ex-startup head of security @<a href="https://honestdollar.com">HonestDollar</a> (acquired by Goldman Sachs)'
+description:      'Helping Secure the Internet'
 url:              http://mattjay.github.io
 
 gems:
@@ -32,3 +32,6 @@ twitter:
 
 linkedin:
   main:           http://www.linkedin.com/in/matthewjohansen
+
+newsletter:
+  main:           http://mattjay.com/newsletter
