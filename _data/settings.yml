@@ -55,7 +55,7 @@ hero:
   enable: true
   hero__title: Hey everyone, I’m Matt Johansen
   hero__description: Friendly Neighborhood Security Guy. I'm a computer security veteran who has helped defend startups, the biggest financial companies in the world, and everything in between.
-  hero__image: "/images/speaking_devopsdays.jpg"
+  hero__image: "/images/speaking_devopsdays.JPG"
 
 
 #-------------------------------
