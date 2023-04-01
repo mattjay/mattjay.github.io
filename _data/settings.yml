@@ -95,7 +95,7 @@ logo__items:
 # Logos Speakers Settings
 logos2:
   enable: true
-  logos2_title: As seen on stage at
+  logos2__title: As seen on stage at
 
 logo2__items:
 #  - name: Blackhat
