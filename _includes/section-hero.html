@@ -13,9 +13,10 @@
           {% endif %}
           <h1 class="hero__title">{{ site.data.settings.hero.hero__title }}</h1>
           <p class="hero__description">{{ site.data.settings.hero.hero__description }}</p>
+          <br/>
+          <p class="hero__description">{{ site.data.settings.hero.hero__newsletter }}</p>
 
           {% if site.data.settings.mailchimp.enable == true %}
-          <br/>
           <iframe src="https://embeds.beehiiv.com/886755e4-0141-4238-8c5c-5d9c38ac79c3?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
           <!-- <div class="hero__subscribe">
             <form class="subscribe-form validate"
