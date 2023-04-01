@@ -120,7 +120,8 @@ logo2__items:
 
   - name: BSides
     link: "https://securitybsides.com"
-    image: "/images/logos/Logo-BSIDES-v2_t.png"
+#    image: "/images/logos/Logo-BSIDES-v2_t.png"
+    image: "/images/logos/bsides_t.png"
 
 # Newsletter
 mailchimp:
