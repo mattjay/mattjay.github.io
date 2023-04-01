@@ -62,7 +62,7 @@ hero:
 # Logos Settings
 logos:
   enable: true
-  logos__title: As featured in or on stage at
+  logos__title: As featured in
 
 logo__items:
   - name: CNN
@@ -95,16 +95,16 @@ logo__items:
 # Logos Speakers Settings
 logos2:
   enable: true
-  logos2_title: As seen on stage at
+  logos2__title: As seen on stage at
 
 logo2__items:
-#  - name: Blackhat
-#    link: "https://blackhat.com"
-#    image: "/images/logos/bh_logo_black.jpg"
+  - name: Blackhat
+    link: "https://blackhat.com"
+    image: "/images/logos/bh_logo_black_onwhite_t.png"
 
-#  - name: DEFCON
-#    link: "https://defcon.com"
-#    image: "/images/logos/defcon.jpg"
+  - name: DEFCON
+    link: "https://defcon.com"
+    image: "/images/logos/defcon_t.png"
 
   - name: RSA
     link: "https://rsaconference.com"
@@ -118,9 +118,9 @@ logo2__items:
     link: "https://owasp.com"
     image: "/images/logos/owasp_logo.png"
 
-#  - name: BSides
-#    link: "https://securitybsides.com"
-#    image: "/images/logos/Logo-BSIDES-v2.jpg"
+  - name: BSides
+    link: "https://securitybsides.com"
+    image: "/images/logos/Logo-BSIDES-v2_t.png"
 
 # Newsletter
 mailchimp:
