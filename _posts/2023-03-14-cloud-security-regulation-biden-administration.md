@@ -7,7 +7,6 @@ categories: [cloud-computing, cybersecurity, regulation]
 tags: [cloud-providers, data-security, Biden-administration, cloud-regulation]
 image: /images/cloud-security.png
 ---
-#![The Biden Administration's Plan to Regulate Cloud Security](/images/cloud-security.png "The Biden Administration's Plan to Regulate Cloud Security"){:width="75%"}
 
 You ever look up and wondered how all that water stays up there without crashing down on us? It turns out the Internet is a series of tubes and they're holding much more than just water. Cloud providers like Amazon, Microsoft, and Google store massive amounts of grandma's secret cookie recipes and top-secret government files. With all those cookie recipes, there are growing concerns about the security of the clouds outside of the normal security community. I myself have made a whole career out of worrying about cloud security, but I didn't think Joe Biden had ever lost sleep on the matter.
 
