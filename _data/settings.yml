@@ -18,7 +18,7 @@ menu__settings:
       url: '/newsletter'
 #    - title: 'Work'
 #      url: '/work/'
-    - title: 'Writing'
+    - title: 'Blog'
       url: '/blog/'
 
 #-----------------------
