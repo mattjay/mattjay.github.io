@@ -1,6 +1,6 @@
 ---
 layout: redirected
 sitemap: false
-permalink: /newsletter/
+permalink: /newslettertest/
 redirect_to:  https://vulnu.beehiiv.com/
 ---

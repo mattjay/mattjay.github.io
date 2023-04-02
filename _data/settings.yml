@@ -39,11 +39,12 @@ author:
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/mattjay"}
-#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/matthewjohansen/"}
 #- {icon: "ion-logo-instagram", link: "https://instagram.com"}
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com/mattjay"}
-#- {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
+#- {icon: "ion-logo-github", link: "https://github.com/mattjay"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCGLhbV0inhaOQEPo5zFjTNQ"}
+- {icon: "ion-ios-mail", link: "https://vulnu.beehiiv.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -58,6 +59,14 @@ hero:
   hero__newsletter: Every Friday, I'll send you the latest edition of Vulnerable U - My free newsletter with a mini blog topic, collection of the news I'm reading this week, and more!
   hero__image: "/images/speaking_devopsdays.JPG"
 
+#-------------------------------
+# Newsletter Settings
+newsletter:
+  enable: true
+  newsletter__title: Vulnerable U
+  newsletter__description: A free security and tech weekly newsletter that embraces vulnerability as a catalyst for growth, fostering a supportive community of learners. Dive in for insightful discussions, the latest must read news, expert advice, and I promise to keep it entertaining along the way.
+  newsletter__testimonial: If y’all aren’t subscribed to mattjay‘s rad newsletter I don’t really know what you’re doing with your lives." - Editor in Chief @ large infosec publication
+  newsletter__image: "/images/iphone_vulnu.png"
 
 #-------------------------------
 # Logos Settings
