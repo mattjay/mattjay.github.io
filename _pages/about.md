@@ -3,7 +3,7 @@ layout: page
 title: About
 description: Helping Secure the Internet.
 permalink: /about/
-image: '/images/matt_avatar2.jpg'
+image: '/images/me_snow.jpg'
 image_caption: 'Matt Johansen'
 ---
 
@@ -31,8 +31,8 @@ My portfolio:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/speaking_devopsdays.JPG" loading="lazy">
     <img src="/images/speaking_miami_akamai.JPG" loading="lazy">
+    <img src="/images/speaking_sector.jpg" loading="lazy">
     <img src="/images/speakingDublin.PNG" loading="lazy">
   </div>
   <em>Speaking Engagements</em>
