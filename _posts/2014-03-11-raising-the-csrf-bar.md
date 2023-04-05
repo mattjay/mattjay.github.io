@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Raising the CSRF Bar
+image: /images/post-1-2.jpg
 ---
 
 For years, we at WhiteHat have been recommending Tokenization as the number one protection from Cross Site Request Forgery (CSRF). Just having a token is not enough, of course, as it must be cryptographically strong, significantly random, and properly validated on the server. Can't stress that last point enough as the first thing I try when I see a CSRF token is to empty the value out and see if the form submit is accepted as valid.
