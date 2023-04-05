@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Vulnerable U - Finding Strength in Weakness
+tags: [Vulnerable-U, Newsletter, Announcements]
+image: /images/VulnU_Logo_Dark.png
 ---
 Exciting news - I've started a weekly newsletter (and maybe some other fun stuff to go with it) - You can find the link to subscribe in the sidebar.
 

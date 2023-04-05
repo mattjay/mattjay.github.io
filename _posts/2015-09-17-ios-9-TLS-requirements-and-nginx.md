@@ -1,6 +1,7 @@
 ---
 layout: post
 title: iOS 9 TLS Requirements & nginx
+image: /images/iphone_vulnu.png
 ---
 
 This week with the release of iOS 9, Apple has introduced some new requirements for their TLS standards under the label [App Transport Security (ATS)](https://developer.apple.com/library/prerelease/ios/technotes/App-Transport-Security-Technote/). After going down this rabbit hole a bit for a few days to make sure we were playing nice with the new rules, I figured I'd give a lessons learned for anybody who stumbles across this. I'm using nginx in all of my examples.

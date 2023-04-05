@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First New Post
+image: /images/spaeking_devopsdays.JPG
 ---
 
 Thanks to the kindness of [Scott Roberts](https://twitter.com/sroberts) and our DFIR crew, my laziness has been supported and he open sourced his blog so that I could just fork it and create my own. Expect some nonsense here that might mirror the [WhiteHat Blog](https://blog.whitehatsec.com), but more so will be my avenue to talk about side projects.
