@@ -35,7 +35,7 @@ menu__settings:
 author:
   author__name: Matt Johansen
   author__bio: Hi, I'm Matt – Friendly Neighborhood Security Guy. I'm a computer security veteran who has helped defend startups, the biggest financial companies in the world, and everything in between.
-  author__avatar: '/images/matt_avatar.png'
+  author__avatar: '/images/matt_avatar3.png'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/mattjay"}
