@@ -32,7 +32,7 @@ My portfolio:
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/speaking_miami_akamai.JPG" loading="lazy">
-    <img src="/images/speaking_sector.jpg" loading="lazy">
+    <img src="/images/matt_portrait.png" loading="lazy">
     <img src="/images/speakingDublin.PNG" loading="lazy">
   </div>
   <em>Speaking Engagements</em>
