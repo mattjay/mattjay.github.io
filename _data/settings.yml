@@ -1,3 +1,4 @@
+---
 #-------------------------------
 # Site Settings
 title: mattjay
@@ -5,21 +6,20 @@ logo: # You can add own logo. For example '/images/logo.png'.
 description: A space for all things mattjay - Blog, Newsletter, Vulnerable U, Talk Archive, Videos, and more.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
-
 #-------------------------------
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Newsletter'
-      url: '/newsletter'
-#    - title: 'Work'
-#      url: '/work/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "Newsletter"
+      url: "/newsletter"
+    #    - title: 'Work'
+    #      url: '/work/'
+    - title: "Blog"
+      url: "/blog/"
 
 #-----------------------
 #    - title: 'Pages'
@@ -29,26 +29,30 @@ menu__settings:
 #      - url: '/elements/'
 #        title: 'Elements'
 
-
 #-------------------------------
 # Author Settings
 author:
   author__name: Matt Johansen
   author__bio: Hi, I'm Matt – Friendly Neighborhood Security Guy. I'm a computer security veteran who has helped defend startups, the biggest financial companies in the world, and everything in between.
-  author__avatar: '/images/matt_avatar3.png'
+  author__avatar: "/images/matt_avatar3.png"
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/mattjay"}
-- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/matthewjohansen/"}
-#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-#- {icon: "ion-logo-github", link: "https://github.com/mattjay"}
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCGLhbV0inhaOQEPo5zFjTNQ"}
-- {icon: "ion-ios-mail", link: "https://vulnu.beehiiv.com"}
+  - { icon: "ion-logo-twitter", link: "https://twitter.com/mattjay" }
+  - {
+      icon: "ion-logo-linkedin",
+      link: "https://www.linkedin.com/in/matthewjohansen/",
+    }
+  #- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+  #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+  #- {icon: "ion-logo-github", link: "https://github.com/mattjay"}
+  - {
+      icon: "ion-logo-youtube",
+      link: "https://www.youtube.com/channel/UCGLhbV0inhaOQEPo5zFjTNQ",
+    }
+  - { icon: "ion-ios-mail", link: "https://vulnu.beehiiv.com" }
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
-
 
 #-------------------------------
 # Hero Settings
@@ -64,7 +68,7 @@ hero:
 newsletter:
   enable: true
   newsletter__title: Vulnerable U
-  newsletter__description: A free security and tech weekly newsletter that embraces vulnerability as a catalyst for growth, fostering a supportive community of learners. Dive in for insightful discussions, the latest must read news, expert advice, and I promise to keep it entertaining along the way.
+  newsletter__description: Free weekly tech newsletter that teaches you to embrace the power of vulnerability for growth, with insightful discussions, latest news, expert advice & I'll keep it entertainaining.
   newsletter__testimonial: If y’all aren’t subscribed to mattjay‘s rad newsletter I don’t really know what you’re doing with your lives." - Editor in Chief @ large infosec publication
   newsletter__image: "/images/iphone_vulnu.png"
 
@@ -130,7 +134,7 @@ logo2__items:
 
   - name: BSides
     link: "https://securitybsides.com"
-#    image: "/images/logos/Logo-BSIDES-v2_t.png"
+    #    image: "/images/logos/Logo-BSIDES-v2_t.png"
     image: "/images/logos/bsides_t.png"
 
 # Newsletter
@@ -140,14 +144,12 @@ mailchimp:
   #mailchimp__input__text: Your email address...
   #mailchimp__button__text: Subscribe
 
-
 #-------------------------------
 # Work Settings
 work:
   enable: false
   work__title: Work
   work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
-
 
 #-------------------------------
 # Testimonials Section
@@ -162,56 +164,55 @@ testimonial__items:
     image: "/images/client-1.jpg"
     designation: "Product Designer"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Carla Rosser"
     image: "/images/client-2.jpg"
     designation: "Statistician"
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Maria Curtis"
     image: "/images/client-3.jpg"
     designation: "Team Lead"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Carter Bergson"
     image: "/images/client-4.jpg"
     designation: "CEO, Founder"
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Jordyn Franci"
     image: "/images/client-5.jpg"
     designation: "Personal Trainer"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Mira Carder"
     image: "/images/client-6.jpg"
     designation: "Data Scientist"
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Madelyn Herwitz"
     image: "/images/client-7.jpg"
     designation: "Frontend Engineer"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Anika Schleifer"
     image: "/images/client-8.jpg"
     designation: "Fitness Director"
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Wilson Dorwart"
     image: "/images/client-9.jpg"
     designation: "Financial Manager"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
 #-------------------------------
 # Blog Section
@@ -221,7 +222,6 @@ blog:
 blog__settings:
   blog__title: Latest Writing
   blog__description: A security and tech blog that embraces vulnerability as a catalyst for growth, fostering a supportive community of learners. Dive in for insightful discussions, the latest must read news, expert advice, and I promise to keep it entertaining along the way.
-
 
 #-------------------------------
 # Footer Settings
@@ -236,13 +236,11 @@ footer__background__image: "/images/rememberthehuman.jpg"
 # NOTE
 # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
   enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-
 
 #-------------------------------
 # Google Analytics
