@@ -68,7 +68,7 @@ hero:
 newsletter:
   enable: true
   newsletter__title: Vulnerable U
-  newsletter__description: Free weekly tech newsletter that teaches you to embrace the power of vulnerability for growth, with insightful discussions, latest news, expert advice & I'll keep it entertainaining.
+  newsletter__description: Free weekly tech newsletter with a focus on cybersecurity that teaches you to embrace the power of vulnerability for growth, with insightful discussions, latest news, expert advice & I'll keep it entertaining.
   newsletter__testimonial: If y’all aren’t subscribed to mattjay‘s rad newsletter I don’t really know what you’re doing with your lives." - Editor in Chief @ large infosec publication
   newsletter__image: "/images/iphone_vulnu.png"
 
