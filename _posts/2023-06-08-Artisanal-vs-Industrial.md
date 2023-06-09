@@ -31,19 +31,20 @@ I couldn't agree more on this point. In the world of cybersecurity, where threat
 
 Venables also talks about tapping into inherent forces or megatrends that can naturally aid your journey towards industrialization. For instance, software-defined infrastructure and software deployment velocity are two such forces that can significantly enhance your security program's scalability.
 
-I find this point particularly compelling. In a rapidly changing digital environment, it's crucial to leverage existing trends and technologies to our advantage. By aligning our strategies with these megatrends, we can make our journey towards industrialization smoother and more efficient.
+I find this point particularly compelling. It's crucial to leverage existing trends and technologies to our advantage. By aligning our strategies with these megatrends, we can make our journey towards industrialization smoother and more efficient.
 
 ## Emphasizing Continuous Control Monitoring and Control Reliability Engineering
 
-An industrialized security program, according to Venables, needs to know the real-time state of all its required controls and adapt in response to any detected failures. This is where Continuous Control Monitoring and Control Reliability Engineering come intoplay.
+An industrialized security program, according to Venables, needs to know the real-time state of all its required controls and adapt in response to any detected failures. This is where Continuous Control Monitoring and Control Reliability Engineering come into play.
 
-This is a crucial point that resonates with me. In cybersecurity, being proactive is key. By continuously monitoring our controls and ensuring their reliability, we can detect potential issues before they escalate into serious threats.
+This is also a crucial point that resonates with me. By continuously monitoring our controls and ensuring their reliability, we can detect potential issues before they escalate into serious threats.
 
 ## Prioritizing Business Service and Mission Assurance
 
 Finally, Venables emphasizes that the ultimate goal of an industrialized program is to ensure that your set of business services or missions operate securely and reliably. This requires adopting an operational resilience mindset, identifying and ranking critical business services, and integrating continuous controls monitoring performance and wider sets of metrics.
 
 I wholeheartedly agree with this point. At the end of the day, the goal of cybersecurity is to protect our business services and missions. By focusing on operational resilience, we can ensure that our cybersecurity measures are not just effective, but also aligned with our business objectives.
+
 
 Wrapping up - Venables' post offers a compelling roadmap for scaling cybersecurity programs. His insights on the shift from artisanal to industrial, the importance of Pareto Metrics, leveraging inherent forces, the emphasis on continuous control monitoring, and the focus on business service and mission assurance are all critical points that resonate with me.
 
