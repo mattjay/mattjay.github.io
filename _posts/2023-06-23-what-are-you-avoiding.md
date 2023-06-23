@@ -47,18 +47,18 @@ Finding a balance between self-care and pushing through discomfort is as crucial
 
 It's about knowing when to recharge and when to move forward, when to retreat for a moment of respite, and when to tackle the challenges head-on.
 
-Reflect on your avoidance patterns. Identify those areas in your tech productivity where you tend to sidestep risks or challenging tasks. It's like performing a self-audit, a necessary step towards fortifying your defenses.
-
 By recognizing and addressing these avoidance patterns in my life and career, I've enhanced my productivity, expanded my skill set, and contributed to a more secure digital landscape.
 
-Here are some strategies to combat avoidance:
+Consider this your invitation to reflect on your own avoidance patterns. Identify areas in tech productivity where you tend to sidestep risks or challenging tasks. It's like performing a self-audit, a necessary step towards fortifying your defenses.
 
-1. **Embrace the Discomfort:** View challenging tasks as opportunities for growth. The more you engage with complex tasks, the more you learn and improve.
+Here are the strategies that I use regularly to combat avoidance:
+
+1. **Embrace the Discomfort:** View challenging tasks as opportunities for growth. Engaging with complex tasks is the path to learning and improving.
 2. **Break it Down:** Large tasks can seem daunting. Break them down into smaller, manageable tasks to make them less intimidating.
 3. **Prioritize Tasks:** Not all tasks are created equal. Identify the most critical tasks and tackle them first.
-4. **Set Realistic Goals:** Setting unattainable goals can lead to avoidance. Make sure your goals are challenging yet achievable.
+4. **Set Realistic Goals:** Setting unattainable goals can lead to avoidance. Make sure goals are challenging yet achievable.
 5. **Seek Support:** If a task is too challenging, don't hesitate to seek help. Collaborating with others can provide new perspectives and make the task more manageable.
-6. **Just Start:** We tend to get into analytical paralysis that keeps us from even beginning. When you start, no matter how imperfect, you can get unstuck and edit later.
+6. **Just Start:** Analytical paralysis keeps us from even beginning. Just start, nevermind perfection. Pivoting and editing are all part of the process.
 
 ![Avoidance](/images/Quotes-About-Avoidance-1024x576.png)
 
