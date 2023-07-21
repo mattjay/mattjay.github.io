@@ -89,6 +89,6 @@ Hear me when I say this, none of that works if I’m not _also_ staying focused 
 
 Maybe this is really why that phrase lives rent-free in my brain. Because I have just experienced it to be true too many times and in various ways. Hell, even in my relationships. When my wife and I get out of sync, we usually realize we haven’t prioritized something really simple. We got distracted by travel plans, house projects, and school drop-offs and forgot to communicate and spend quality time just the two of us. Exaggerate the basics. Do what you learned early on, and try not to forget how critical they were to your development. They will ALWAYS matter.
 
-![Matt and Britt Blog](/images/matt_britt_blog.JPG){:style="display:block; margin-left:auto; margin-right:auto" width="70%"}
+![Matt and Britt Blog](/images/matt_britt_blog.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="70%"}
 
 _Are you out of sync somewhere in your life? Have you checked in on the basics? Have you tightened up in the areas that are fundamental to your sport, job, relationship, or mental health? If not, consider this your opportunity to check-in. I’ll be doing the same routine checks right along with you._
