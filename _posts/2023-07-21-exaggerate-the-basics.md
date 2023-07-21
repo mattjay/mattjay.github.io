@@ -11,7 +11,7 @@ Well, at least I was when my knees were better, and my teenage body could sustai
 
 At a point, I was competitive, played in a few championships, lots of beach tournaments, etc.
 
-![Volleyball Action Shot](/images/matt_britt_volleyball.JPG){:style="display:block; margin-left:auto; margin-right:auto"}
+![Volleyball Action Shot](/images/matt_britt_volleyball.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 One year, I tried out for a club coached by a local legend named Merlin. This was a turning point for my skill development, and I vividly remember why.
 
