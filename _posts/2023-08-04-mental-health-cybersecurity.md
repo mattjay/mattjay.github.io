@@ -1,8 +1,8 @@
 ---
-title: "Mental Health in Cybersecurity"
-description: "How our mental health has become a crisis and our industry is finely tuned to perpetuate it"
+title: "The Hidden Battle: Mental Health in Cybersecurity"
+description: "How mental health has become a crisis and our industry is finely tuned to perpetuate it"
 image: /images/mental_chains.png
-tags: [cybersecurity, growth]
+tags: [cybersecurity, mental-health]
 ---
 
 I’m writing this today for you as much as for myself. We’ve gotten real here before, but this time, I wanted to hit a bit differently. The tone is a bit more serious, maybe a little more exhausted. Dark humor is the way I try to convince myself it’s not that bad.
