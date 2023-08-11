@@ -15,7 +15,7 @@ This was it. The intellectual component. The parallels. The view of my mental he
 
 Cybersecurity uses threat modeling to identify potential risks, vulnerabilities, and attack vectors within complex systems. This proactive approach allows fortification of defenses and safeguard against potential breaches or cyber-attacks. But what if we could apply this same concept of threat modeling to mental health, specifically focusing on the enigmatic and often debilitating condition some of us know all too well?
 
-![confused](/images/confused.gif){:style="display:block; margin-left:auto; margin-right:auto" width="70%"}
+![confused](/images/confused.gif){:style="display:block; margin-left:auto; margin-right:auto" width="50%"}
 
 In this blog, I conceptualize depression as a system, akin to a digital infrastructure susceptible to threats. We’ll explore the various components and stakeholders involved in the "depression system" and analyze how these factors contribute to the overall experience of depression. By identifying the threats that surround depression, we aim to shed light on the complexities of this condition and advocate for a more comprehensive and empathetic understanding of mental health.
 
