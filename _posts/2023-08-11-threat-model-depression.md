@@ -7,7 +7,7 @@ tags: [cybersecurity, mental-health]
 
 Finding a good therapist is like dating. Sometimes you find exactly who you are looking for on the first go around, but not usually. Typically, you try many therapists for multiple sessions before finding one that you can see yourself spending a lot of time with. Someone who helps in ways you want to be helped. For me, I wanted to be supported and challenged at the same time.
 
-![Larry David](/images/larrydavid.gif)
+![Larry David](/images/larrydavid.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 After many therapists, I finally found one who was able to stimulate my intellectual brain while talking through my depression and anxiety. It was awesome! You’ve heard me talk about him in a previous blog. Other therapists encouraged me to talk about my childhood and use coping strategies like meditation, but I always felt like I was missing something.
 
@@ -15,7 +15,7 @@ This was it. The intellectual component. The parallels. The view of my mental he
 
 Cybersecurity uses threat modeling to identify potential risks, vulnerabilities, and attack vectors within complex systems. This proactive approach allows fortification of defenses and safeguard against potential breaches or cyber-attacks. But what if we could apply this same concept of threat modeling to mental health, specifically focusing on the enigmatic and often debilitating condition some of us know all too well?
 
-![confused](/images/confused.gif)
+![confused](/images/confused.gif){:style="display:block; margin-left:auto; margin-right:auto" width="70%"}
 
 In this blog, I conceptualize depression as a system, akin to a digital infrastructure susceptible to threats. We’ll explore the various components and stakeholders involved in the "depression system" and analyze how these factors contribute to the overall experience of depression. By identifying the threats that surround depression, we aim to shed light on the complexities of this condition and advocate for a more comprehensive and empathetic understanding of mental health.
 
@@ -41,7 +41,7 @@ Applying a threat model to it won’t change how intensely I feel it. My only ho
 
 While everyone experiences occasional sadness, depression surpasses typical emotional fluctuations, becoming a persistent and pervasive state that can significantly impair daily functioning. How many of you just did one of these? 👇
 
-![yup](/images/yup.gif)
+![yup](/images/yup.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Some symptoms can include: 
 
@@ -97,7 +97,7 @@ I feel like it’s important to say that sometimes your threat model might be a 
 
 If that’s you, it’s ok. You’re not alone. The whole of mental and behavioral health sciences are still trying to figure this shit out. If you don’t have it all figured out, welcome to the party where we’re all just doing our best.
 
-![no one](/images/noone.png)
+![no one](/images/noone.png){:style="display:block; margin-left:auto; margin-right:auto" width="70%"}
 
 ## **Vulnerabilities and Risk Factors**
 
