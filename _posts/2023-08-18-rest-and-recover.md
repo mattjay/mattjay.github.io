@@ -1,7 +1,7 @@
 ---
 title: "7 Ways to Rest & Recover After Socially Exhausting Events"
 description: "Coming down to Earth and recharging the batteries."
-image: /images/mental_chains.png
+image: /images/cozy_nook.png
 tags: [cybersecurity, mental-health]
 ---
 
