@@ -17,7 +17,7 @@ The engineering view, however, leaves parents feeling responsible for everything
 
 This concept got me thinking about leadership in technology organizations, particularly infosec. Because at our jobs leaders aren’t parents and staff aren’t children (not usually anyway!), I had to get a little creative, but the basic principles are the same. 
 
-We don’t get to create an individual contributor, but we do get to create our teams, for the most part. Sometime we inherit them, but often times we do get to build them. And so while Berkley sees shepherding as inherently good and engineering as inherently ineffective, I think there is value in both kinds of leadership. 
+We don’t get to create an individual contributor, but we do get to create our teams, for the most part. Sometimes we inherit them, but often times we do get to build them. And so while Berkley sees shepherding as inherently good and engineering as inherently ineffective, I think there is value in both kinds of leadership. 
 
 Though, it’s crucial to recognize when to shift between the roles of shepherd and engineer.
 
