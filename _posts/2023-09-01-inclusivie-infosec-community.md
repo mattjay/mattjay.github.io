@@ -11,7 +11,7 @@ Don’t worry, newbies; read on to learn how to spot high-achieving and nurturin
 
 My start in infosec is a story I’ve told before. Mustering up all the courage I had inside my body, I hopped on the Schmoo Bus with a bunch of people I followed on Twitter and set course to my first-ever SchmooCon.
 
-This adventure introduced me to many obstacles newcomers face in the industry. On the other side of that now, aligning more closely with a Schmoo bus driver than a hitchhiker, I decided to revisit a concept from an earlier newsletter from a new perspective.
+This adventure introduced me to many obstacles newcomers face in the industry. On the other side of that now, aligning more closely with a Schmoo bus driver than a hitchhiker, I decided to revisit a concept from an earlier [newsletter](https://vulnu.mattjay.com/p/breaking-into-infosec-top-5-challenges) from a new perspective.
 
 In that newsletter, I shared the 5 obstacles newcomers face when breaking into information security. Today, I want to share what I do to facilitate environments that set newcomers up for success.
 
