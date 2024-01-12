@@ -41,7 +41,7 @@ As we Tazmanian Devil our way through the wildness of our industry, mindfulness 
 
 Excellent, we understand a bit about what mindfulness is and isn't. Where do we start?
 
-For me some things that hit home were around routines that you already have. This should be easy since you don't have to actually change any behaivors, right?
+For me some things that hit home were around routines that you already have. This should be easy since you don't have to actually change any behaviors, right?
 
 Take my morning coffee for example. If you suggest that leaves my schedule you'll have to pry it from my cold dead hands.
 
