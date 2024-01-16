@@ -79,6 +79,9 @@ Fair warning - I’ll ignore anything that is blatant product promotion or not a
 - **[Hacking Google Bard - From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)**
 - **[Google Cloud Vertex AI - Data Exfiltration Vulnerability](https://embracethered.com/blog/posts/2023/google-gcp-generative-ai-studio-data-exfiltration-fixed/)**
 - **[Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/pdf/2302.12173.pdf)**
+- **[Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](https://paper.hackaprompt.com/)**
+- **[Lakera - Gandalf](https://gandalf.lakera.ai/)**
+- **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/pdf/2401.05566.pdf)**
 
 ### Phase 2: Open community voting (Starting as soon as nominations close)
 
