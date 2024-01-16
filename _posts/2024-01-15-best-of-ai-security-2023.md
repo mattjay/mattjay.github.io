@@ -55,7 +55,7 @@ AI as a mass use technology is still an infant compared to the web at large, so 
 
 ### **How to nominate**
 
-### **[Click here to submit a nomination](https://docs.google.com/forms/d/e/1FAIpQLSc5CaiPUIlII3DLS6i1xK9ya3XRJRU8uW7vFRhT3toYSrrsTQ/viewform?usp=sf_link)**
+### **[Click here to submit a nomination](https://docs.google.com/forms/d/e/1FAIpQLSfGPnkyuV8H9SOnAk4nnMI3rtN7HVCHs9oeUM9h-SO-otflsA/viewform?usp=sf_link)**
 
 All I need is a link to what you’re nominating and it would be helpful if you tell me what it is you’re submitting. Go ahead and submit more than one thing, or your own research!
 
