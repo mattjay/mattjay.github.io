@@ -9,7 +9,7 @@ I was reminded recently of a project I used to hold near and dear to my heart an
 
 I noticed recently that the team over at PortSwigger, makers of Burp Suite, picked it up after they missed the project so much and have been carrying the torch ever since. They were kind enough to give me and Jeremiah a shout out for starting the project and gaining its popularity.
 
-If you’re unfamiliar with it here is a link to what its all about and the archive links of all the years past, it is a fun ride through memory lane if you’re into AppSec at all - https://portswigger.net/research/top-10-web-hacking-techniques
+If you’re unfamiliar with it here is a link to what its all about and the archive links of all the years past, it is a fun ride through memory lane if you’re into AppSec at all - [Top 10 Web Hacking Techniques](https://portswigger.net/research/top-10-web-hacking-techniques)
 
 **TL;DR** - We would collect community submissions for the _new_ web hacking techniques of the previous year, then run a vote for which of those techniques folks thought were the coolest, then with a panel of expert judges widdle down the list and order it into a definitive Top 10 of the year.
 
@@ -23,9 +23,11 @@ BUT there has been some epic things done in the world of AI Security this past y
 
 I’m going to have a panel of judges as well, I’ve got a few commits so far and will update this post with their names soon, but many of you will know who they are.
 
+Follow me on Twitter [(@mattjay)](https://x.com/mattjay) or on my newsletter Vulnerable U [(LINK)](https://vulnu.mattjay.com) for announcements related to this project.
+
 Now completely ripping off my old blog posts:
 
-Nominations are officially open for the Best of AI Security 2023!
+**Nominations are officially open for the Best of AI Security 2023!**
 
 Over the last year, numerous security researchers have shared their discoveries with the community through blog posts, presentations and whitepapers. Many of these posts contain innovative ideas waiting for the right person to adapt and combine them into new discoveries in future.
 
