@@ -82,6 +82,7 @@ Fair warning - I’ll ignore anything that is blatant product promotion or not a
 - **[Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](https://paper.hackaprompt.com/)**
 - **[Lakera - Gandalf](https://gandalf.lakera.ai/)**
 - **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/pdf/2401.05566.pdf)**
+- **[LatioTech - LAST - Open Source CLI for sending your code changes to OpenAI for security analysis, supports full code scans and partial ones based only on your changes](https://github.com/latiotech/LAST)**
 
 ### Phase 2: Open community voting (Starting as soon as nominations close)
 
