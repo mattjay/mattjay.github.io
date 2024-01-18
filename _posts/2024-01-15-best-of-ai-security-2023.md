@@ -5,6 +5,8 @@ image: /images/bestofAI2023.png
 tags: [cybersecurity, ai]
 ---
 
+### **[Click here to submit a nomination](https://docs.google.com/forms/d/e/1FAIpQLSfGPnkyuV8H9SOnAk4nnMI3rtN7HVCHs9oeUM9h-SO-otflsA/viewform?usp=sf_link)**
+
 I was reminded recently of a project I used to hold near and dear to my heart and was a major part of my early career - the Top 10 Web Hacking Techniques of the year. [Jeremiah Grossman](https://twitter.com/jeremiahg) started this project way back in 2006 and I started collaborating with him on it in 2010 and took it over fully from him in 2013, along with my colleague and friend [Johnathan Kuskos](https://twitter.com/JohnathanKuskos), we ran it for a few years before I moved on in my career from WhiteHat and so did Jeremiah and Kuskos. When we all left the company the project never really got picked up by anyone else on the team.
 
 I noticed recently that the team over at PortSwigger, makers of Burp Suite, picked it up after they missed the project so much and have been carrying the torch ever since. They were kind enough to give me and Jeremiah a shout out for starting the project and gaining its popularity.
