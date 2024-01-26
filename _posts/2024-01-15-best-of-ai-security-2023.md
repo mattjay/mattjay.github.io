@@ -85,6 +85,14 @@ Fair warning - I’ll ignore anything that is blatant product promotion or not a
 - **[Lakera - Gandalf](https://gandalf.lakera.ai/)**
 - **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/pdf/2401.05566.pdf)**
 - **[LatioTech - LAST - Open Source CLI for sending your code changes to OpenAI for security analysis](https://github.com/latiotech/LAST)**
+- **[AI tool to do automated assessments, penetration testing](https://www.horizon3.ai/)**
+- **[User awareness training and testing for AI deepfake and social engineering](www.breacher.io)**
+- **[Invisible Indirect Injection: Compromising ChatGPT for a Game](https://kai-greshake.de/posts/puzzle-22745/)**
+- **[Inject My PDF: Prompt Injection for your Resume](https://kai-greshake.de/posts/inject-my-pdf/)**
+- **[Poison models via domain “takeover”](https://arxiv.org/pdf/2302.10149.pdf)**
+- **[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693)**
+- **[Visual Adversarial Examples Jailbreak Aligned Large Language Models](https://r.jordan.im/download/language-models/qi2023.pdf)**
+- **[GPT-4 Vision (GPT-4V) Prompt Injection Detection](https://evren.ninja/gpt4-vision-prompt-injection.html)**
 
 ### Phase 2: Open community voting (Starting as soon as nominations close)
 
