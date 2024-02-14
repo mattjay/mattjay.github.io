@@ -5,7 +5,8 @@ image: /images/bestofAI2023.png
 tags: [cybersecurity, ai]
 ---
 
-### **[Click here to submit a nomination](https://docs.google.com/forms/d/e/1FAIpQLSfGPnkyuV8H9SOnAk4nnMI3rtN7HVCHs9oeUM9h-SO-otflsA/viewform?usp=sf_link)**
+Here to vote? Skip my yapping:
+**[VOTE HERE](https://forms.fillout.com/t/nY6MfNcQp7us)**
 
 I was reminded recently of a project I used to hold near and dear to my heart and was a major part of my early career - the Top 10 Web Hacking Techniques of the year. [Jeremiah Grossman](https://twitter.com/jeremiahg) started this project way back in 2006 and I started collaborating with him on it in 2010 and took it over fully from him in 2013, along with my colleague and friend [Johnathan Kuskos](https://twitter.com/JohnathanKuskos), we ran it for a few years before I moved on in my career from WhiteHat and so did Jeremiah and Kuskos. When we all left the company the project never really got picked up by anyone else on the team.
 
@@ -57,15 +58,13 @@ I’m fine with us getting creative here and showing off both hacking techniques
 
 AI as a mass use technology is still an infant compared to the web at large, so we don’t exactly have “XXE” or “mXSS” of the AI world - but if and when we do, I want this project to highlight it. Since this is the first, year we can stay creative and less rigid on our qualification rules.
 
-### **How to nominate**
-
-### **[Click here to submit a nomination](https://docs.google.com/forms/d/e/1FAIpQLSfGPnkyuV8H9SOnAk4nnMI3rtN7HVCHs9oeUM9h-SO-otflsA/viewform?usp=sf_link)**
+### **How to nominate [Nominations Closed]**
 
 All I need is a link to what you’re nominating and it would be helpful if you tell me what it is you’re submitting. Go ahead and submit more than one thing, or your own research!
 
 Fair warning - I’ll ignore anything that is blatant product promotion or not actually AI Security related.
 
-### Phase 1: 2023 Nominations (I’ll update this list as new things come in):
+### Phase 1: 2023 Nominations (CLOSED):
 
 - **[LLM prompt injection via invisible instructions in pasted text](https://twitter.com/goodside/status/1745511940351287394)**
 - **[Data Exfiltration Vulnerability in Azure AI Playground](https://embracethered.com/blog/posts/2023/data-exfiltration-in-azure-openai-playground-fixed/)**
@@ -86,17 +85,21 @@ Fair warning - I’ll ignore anything that is blatant product promotion or not a
 - **[Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://arxiv.org/pdf/2401.05566.pdf)**
 - **[LatioTech - LAST - Open Source CLI for sending your code changes to OpenAI for security analysis](https://github.com/latiotech/LAST)**
 - **[AI tool to do automated assessments, penetration testing](https://www.horizon3.ai/)**
-- **[User awareness training and testing for AI deepfake and social engineering](www.breacher.io)**
 - **[Invisible Indirect Injection: Compromising ChatGPT for a Game](https://kai-greshake.de/posts/puzzle-22745/)**
 - **[Inject My PDF: Prompt Injection for your Resume](https://kai-greshake.de/posts/inject-my-pdf/)**
 - **[Poison models via domain “takeover”](https://arxiv.org/pdf/2302.10149.pdf)**
 - **[Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693)**
 - **[Visual Adversarial Examples Jailbreak Aligned Large Language Models](https://r.jordan.im/download/language-models/qi2023.pdf)**
 - **[GPT-4 Vision (GPT-4V) Prompt Injection Detection](https://evren.ninja/gpt4-vision-prompt-injection.html)**
+- **[AI Assisted Decision Making of Security Review Needs](https://i.blackhat.com/BH-US-23/Presentations/US-23-Gautam-AI-Assisted-Decision-of-Security-Needs.pdf)**
 
-### Phase 2: Open community voting (Starting as soon as nominations close)
+### Phase 2: Open community voting (Voting now open!)
+
+# [VOTE HERE](https://forms.fillout.com/t/nY6MfNcQp7us)
 
 From the field of toal entries received, each voter (open to everyone) ranks their fifteen favorite entries. Each entry gets a certain amount of points depending on how highly they are individually ranked in each ballot. For example, an entry in position #1 will be given 15 points, position #2 will get 14 points, and so on down to 1 point. At the end all points from all ballots will be tabulated to ascertain the top 15 overall.
+
+# [VOTE HERE](https://forms.fillout.com/t/nY6MfNcQp7us)
 
 ### Phase 3: Panel of Security Experts (Begins after community vote)
 
