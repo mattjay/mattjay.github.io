@@ -43,7 +43,7 @@ This suggestion leads us to ask, well, what the hell else could it be? There are
 
 It made me think of Hank Green's Razor:
 
-![Hank's Razor.png](/images/Screenshot_2024-04-11_at_23-13-49_Hanks_Razor.png)
+![Hank's Razor](/images/HankRazor.png)
 
 Odgers and her colleagues argue that the data linking social media use to mental health problems are not as clear-cut as they might appear. Much of the research in this area relies on correlational data, which can indicate connections but does not establish causation.
 
