@@ -22,7 +22,7 @@ He also handed me a DVD (dating myself) of a conference talk by my, now great fr
 
 ![Way Mentors Help](/images/waysmentoshelp.png)
 
-Maybe I couldn’t have known this at the moment, maybe I needed to be able to look back to understand; learning new things, in all its excitement and necessity, has the potential to be really lonely. So does starting over. As does switching careers, getting a new job, and venturing into something unknown and unfamiliar. And as we learned over this last year, loneliness is an epidemic. - https://www.mattjay.com/blog/loneliness-epidemic
+Maybe I couldn’t have known this at the moment, maybe I needed to be able to look back to understand; learning new things, in all its excitement and necessity, has the potential to be really lonely. So does starting over. As does switching careers, getting a new job, and venturing into something unknown and unfamiliar. And as we learned over this last year, loneliness is an epidemic. - (https://www.mattjay.com/blog/loneliness-epidemic)
 
 My time in college was valuable. I learned about independence, shared responsibility, accountability, reliability, love, friendship, commitment, adventure, and how to get paid while studying for finals by working IT in the Library (Club Swirbul! IYKYK). I learned about security too, but modern technology is evolving way faster than an educational institution could be expected to keep up with.
 
@@ -44,19 +44,19 @@ My mental health can be a fickle little shit, but believing that I have people w
 
 Another realization came up for me in that conversation. I couldn’t have learned it from a book. No online course. No training program. Someone from inside had to walk me through it. They had to introduce me to other people, recommend me for jobs, invite me to events, and all the other seemingly minor tasks (minor for them, huge for me) in order to make sense of my options, and answer that daunting question, “What now?”. Without that support, I am feeling like I’m the problem, not good enough, hopeless to get anywhere. Mentors make a huge difference.
 
-This is as much a call to action for people trying to get into the industry as it is to those who have been here, know the culture, and have so much to offer. I’ve talked about breaking into infosec previously, - https://www.mattjay.com/blog/inclusivie-infosec-community - but that was career advice. This is my emphatic plea for us to help each other, for the sake of our careers yes, but more importantly to protect each other.
+This is as much a call to action for people trying to get into the industry as it is to those who have been here, know the culture, and have so much to offer. I’ve talked about breaking into infosec previously, - (https://www.mattjay.com/blog/inclusivie-infosec-community) - but that was career advice. This is my emphatic plea for us to help each other, for the sake of our careers yes, but more importantly to protect each other.
 
 Underestimating the crippling reality of loneliness robs our communities of the diversity, vibrancy, and resilience that we are capable of. There is plenty of room here, we are a growing and unstoppable industry.
 
 Be the mentor. Show someone the way. And for those testing the waters, we can’t promise it’ll be an easy road, but there are those of us who know how much it means when you don’t feel so alone at the beginning of uncharted territories.
 
-If you’re reading this and want to know how to become a mentor or need someone to guide you with a big transition, please consider some of these resources I found. You can reach out to me directly as well, I’ll do my best to connect people with each other. Here’s an article in Forbes with tips to help you find a mentor. - https://www.forbes.com/councils/forbestechcouncil/2022/10/13/16-industry-leaders-tips-to-help-young-tech-pros-find-a-mentor/
+If you’re reading this and want to know how to become a mentor or need someone to guide you with a big transition, please consider some of these resources I found. You can reach out to me directly as well, I’ll do my best to connect people with each other. Here’s an article in Forbes with tips to help you find a mentor. - (https://www.forbes.com/councils/forbestechcouncil/2022/10/13/16-industry-leaders-tips-to-help-young-tech-pros-find-a-mentor/)
 
 ### Find / Become a mentor:
 
 - **LinkedIn & Twitter** - start networking now! You’ll thank yourself in the coming years.
 - **Discord** - find one that interests you like Design Buddies for designers, or Jhaddix's Bug Hunters group.
-- **Mentors in Tech** - https://mentorsintech.com/
-- **Mentor Cruise** - https://mentorcruise.com/
-- **Code Mentor** for developers - https://www.codementor.io/
-- **UStrive** made for students - https://www.ustrive.com/
+- **Mentors in Tech** - (https://mentorsintech.com/)
+- **Mentor Cruise** - (https://mentorcruise.com/)
+- **Code Mentor** for developers - (https://www.codementor.io/)
+- **UStrive** made for students - (https://www.ustrive.com/)
